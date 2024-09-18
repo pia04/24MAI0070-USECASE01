@@ -1,0 +1,10 @@
+Branch,Product,Sales,Date
+Branch 1,Prod A,150,2024-01-10
+Branch 1,Prod B,200,2024-01-11
+Branch 1,Prod C,250,2024-01-12
+Branch 2,Prod A,180,2024-01-10
+Branch 2,Prod B,220,2024-01-11
+Branch 2,Prod C,260,2024-01-12
+Branch 3,Prod A,170,2024-01-10
+Branch 3,Prod B,210,2024-01-11
+Branch 3,Prod C,270,2024-01-12
